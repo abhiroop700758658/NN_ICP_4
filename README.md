@@ -1,7 +1,7 @@
 **code execution link:**
 
 
-1. Data Manipulation Program
+**1. Data Manipulation Program**
 
 **Read the CSV file:**
 The code reads a CSV file named 'data.csv' using the pd.read_csv function from the pandas library. The file path is specified as 'C:\Users\Harshini\Documents\Python Codes\ICP-4\data.csv'. Make sure to replace this path with the actual location of your CSV file.
@@ -36,7 +36,7 @@ Scatter Plot for 'Duration' and 'Calories':
 A scatter plot is created using Matplotlib, with 'Duration' on the x-axis and 'Calories' on the y-axis. The title and axis labels are added, and the plot is displayed using plt.show().
 This code snippet performs various data manipulation and analysis tasks, including handling missing values, filtering data, and creating a scatter plot for visualization.
 
-2. Regression Program
+**2. Regression Program**
    
 **Import Libraries:**
 Import necessary libraries: pandas for data manipulation, matplotlib.pyplot for plotting, and relevant modules from scikit-learn for machine learning.
